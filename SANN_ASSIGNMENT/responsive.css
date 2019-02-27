@@ -1,0 +1,88 @@
+@media only screen and (min-width : 768px) and (max-width: 1024px){
+    .customer-details table tr:first-child td{
+    font-size: 22px;
+    font-weight: 1100px;
+    color: #3bb1a7;
+    background-color: #0e2e00;
+    
+
+}
+table tr td{
+    border: 2px solid #50349d ;
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: 400;
+}
+a h2{
+    text-align: center;
+    margin-bottom: 5%;
+    color: #75a000;
+     border: 1px solid #724b4b;
+    padding: 1%;
+    background-color: #4a0709;   
+    border-radius: 5px;
+}
+    a {
+    list-style: none;
+ text-decoration: none;
+   
+}
+}
+@media only screen and (min-width : 569px) and (max-width: 767px){
+    .customer-details table tr:first-child td{
+    font-size: 19px;
+    font-weight: 1000px;
+    color: #80775c;
+    background-color: #800101;
+}
+table tr td{
+    border: 2px solid #50349d ;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: 300;
+}
+a h2{
+    text-align: center;
+    margin-bottom: 4%;
+     color: #71aa46;
+     border: 1px solid #724b4b;
+    padding: 0.65%;
+    background-color: #4a0709;   
+    border-radius: 3px;
+}
+a {
+    list-style: none;
+    text-decoration: none;  
+}
+}
+
+@media only screen and (min-width : 240px) and (max-width: 568px){
+ .customer-details table tr:first-child td{
+    font-size: 15px;
+    font-weight: 800px;
+    color: #71aa46;
+    background-color: #583c07;
+}
+table tr td{
+    border: 2px solid #50349d ;
+    height: 30px;
+    width: 100px;
+    font-size: 12px;
+    font-weight: 200;
+}
+a h2{
+    text-align: center;
+    margin-bottom: 3%;
+     color: #71aa46;
+     border: 1px solid #724b4b;
+    padding: 0.65%;
+    background-color: #4a0709;   
+    border-radius: 3px;
+}
+a {
+    list-style: none;
+    text-decoration: none;  
+}
+}

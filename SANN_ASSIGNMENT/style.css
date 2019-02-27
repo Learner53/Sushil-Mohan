@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    background-color: #251a3b;
+}
+.customer-details table tr:first-child td{
+    font-size: 22px;
+    font-weight: 1100px;
+    color: #3bb1a7;
+    background-color: #0e2e00;
+}
+table tr td{
+    border: 2px solid #50349d ;
+    
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #1d1d1d;
+    background-color: #797b80;
+}
+table  tr td:hover {
+    background-color: #969dac;
+}
+.customer-details table{
+    border-collapse: collapse;
+    margin: auto; 
+    background-color: #346188;
+}
+.customer-details{
+    align-content: center;
+}
+a h2{
+    text-align: center;
+    margin-bottom: 5%;
+    color: #75a000;
+     border: 1px solid #724b4b;
+    padding: 1%;
+    background-color: #4a0709;   
+    border-radius: 5px;
+}
+a h2:hover{
+    text-align: center;
+    margin-bottom: 5%;
+    color: #bcef32;
+     border: 1px solid #724b4b;
+    padding: 1%;
+    background-color: #6d1215;   
+}
+a {
+    list-style: none;
+ text-decoration: none;
+   
+}
